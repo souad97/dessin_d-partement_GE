@@ -1,2 +1,2 @@
-# dessin_d-partement_GE
+# dessin_departement_GE
 DIALUX EVO 
